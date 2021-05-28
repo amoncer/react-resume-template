@@ -32,7 +32,7 @@ When you're all done, run `npm start` again and you'll see your new personal res
 <a href="https://www.udemy.com/projects-in-reactjs-the-complete-react-learning-course/learn/v4/overview">Projects in ReactJS: The Complete React Learning Course by Eduonix</a>
 
 ##### Article
-<a href="https://medium.com/technoetics/create-a-developer-portfolio-using-reactjs-d34ea1bfb18e">Aticle about the App</a>
+<a href="https://medium.com/technoetics/create-a-developer-portfolio-using-reactjs-d34ea1bfb18e">Article about the App</a>
 
 #### HTML Design Template
 <a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
